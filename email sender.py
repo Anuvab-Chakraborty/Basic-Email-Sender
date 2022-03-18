@@ -4,8 +4,8 @@ from email.message import EmailMessage
 
 subject="Email From PYTHON"
 body="This is a test mail from Python !!"
-sender_email="anuvabtest@gmail.com"
-reciever_email="anuvab.xd@gmail.com"
+sender_email="xyz@gmail.com"
+reciever_email="zyx@gmail.com"
 password=input("Enter a password: ")
 
 message=EmailMessage()
